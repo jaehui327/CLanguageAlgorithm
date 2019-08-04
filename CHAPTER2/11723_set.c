@@ -9,7 +9,7 @@ int main() {
         switch (s[1]) {
             case 'd':
                 scanf("%d", &x);
-                k |= (1 << x)
+                k |= (1 << x);
                 break;
             case 'e':
                 scanf("%d", &x);
